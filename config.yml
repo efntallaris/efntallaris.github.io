@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true
     title: Efstratios Ntallaris
-    subtitle: "I’m a 2nd-year Ph.D. candidate in the Computer Science Department at the University of Crete. My research interests rely on distributed systems, in-memory data stores, and high-performance networking (RDMA), with a focus on elasticity and live migration in in-memory systems."
+    subtitle: "I’m a 2nd-year Ph.D. candidate in the Computer Science Department at the University of Crete advised by Prof. Kostas Magoutis. My research interests rely on distributed systems, in-memory data stores, and high-performance networking (RDMA), with a focus on elasticity and live migration in in-memory systems."
     imageUrl: "picture.jpeg"
     imageWidth: 160
     imageHeight: 160
